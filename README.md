@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hongtsewen
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Front stack working
-- 💞️ I’m looking to collaborate on WeHelp program
+- 💞️ I’m looking forward to attend in CYCU's Computer Enginerring  program
 - 📫 You may reach me via: https://sites.google.com/view/htw2021/
 
 <!---
